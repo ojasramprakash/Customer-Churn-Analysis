@@ -1,0 +1,2 @@
+customers,churned_customers,churn_rate_pct,avg_tenure_churned,avg_tenure_retained,avg_credit_churned,avg_credit_retained,avg_balance_churned,avg_balance_retained,avg_age_churned,avg_age_retained
+10000,2037,20.4,4.9,5.0,645.0,652.0,91108.54,72745.3,44.8,37.4

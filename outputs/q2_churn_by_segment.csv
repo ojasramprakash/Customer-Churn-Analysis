@@ -1,0 +1,17 @@
+segment_type,segment,customers,churn_rate_pct
+AgeBand,50-59,869,56.0
+AgeBand,40-49,2618,30.8
+AgeBand,60+,526,27.9
+AgeBand,30-39,4346,10.9
+AgeBand,<30,1641,7.6
+Gender,Female,4543,25.1
+Gender,Male,5457,16.5
+Geography,Germany,2509,32.4
+Geography,Spain,2477,16.7
+Geography,France,5014,16.2
+IsActiveMember,Inactive,4849,26.9
+IsActiveMember,Active,5151,14.3
+NumOfProducts,4,60,100.0
+NumOfProducts,3,266,82.7
+NumOfProducts,1,5084,27.7
+NumOfProducts,2,4590,7.6
